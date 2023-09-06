@@ -47,6 +47,11 @@ header {
   font-weight: bold;
 }
 
+#statsWebGL, #statsWebGPU {
+  font-size: 0.8rem;
+  margin-top: 5px;
+  color: #333;
+}
 /* Estilos para Mobile */
 @media (max-width: 768px) {
   #container {
